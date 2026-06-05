@@ -1,7 +1,7 @@
-import StaffDashboard from "./pages/StaffDashboard";
+import MadamDashboard from "./pages/MadamDashboard";
 
 function App() {
-  return <StaffDashboard />;
+  return <MadamDashboard />;
 }
 
 export default App;
