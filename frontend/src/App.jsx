@@ -1,7 +1,7 @@
-import CitizenBooking from "./pages/CitizenBooking";
+import StaffDashboard from "./pages/StaffDashboard";
 
 function App() {
-  return <CitizenBooking />;
+  return <StaffDashboard />;
 }
 
 export default App;
