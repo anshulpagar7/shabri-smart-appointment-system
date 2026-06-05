@@ -1,7 +1,7 @@
-import MadamDashboard from "./pages/MadamDashboard";
+import CitizenBooking from "./pages/CitizenBooking";
 
 function App() {
-  return <MadamDashboard />;
+  return <CitizenBooking />;
 }
 
 export default App;
